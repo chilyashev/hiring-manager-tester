@@ -14,3 +14,4 @@ This project has only one goal and it is very simple. The goal is to check how t
 2024-05-07 01:31:02.055864: Remove deprecated functions
 2024-06-02 23:28:51.975262: Improve error handling
 2025-01-08 10:34:30.098529: Optimize database queries
+2024-01-21 02:41:41.106497: Add unit tests for core modules
