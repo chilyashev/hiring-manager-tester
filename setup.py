@@ -3,3 +3,4 @@
 2024-10-13 16:19:51.938177: Add new feature to user interface
 2024-09-17 14:31:16.953892: Remove deprecated functions
 2024-08-04 07:26:44.961106: Remove deprecated functions
+2024-01-29 18:09:00.063130: Refactor code for better readability
