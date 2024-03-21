@@ -53,3 +53,4 @@
 2024-11-14 12:37:20.048592: Remove deprecated functions
 2024-02-23 17:59:14.937523: Add new feature to user interface
 2024-05-15 22:31:57.967904: Fix bug in data processing pipeline
+2024-03-21 13:23:42.021162: Update documentation and README
