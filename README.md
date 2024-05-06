@@ -11,3 +11,4 @@ This project has only one goal and it is very simple. The goal is to check how t
 2024-02-18 09:20:55.869352: Add unit tests for core modules
 2024-03-07 16:12:05.955065: Update dependencies
 2024-06-16 05:02:14.970107: Add new feature to user interface
+2024-05-07 01:31:02.055864: Remove deprecated functions
