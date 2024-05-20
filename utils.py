@@ -23,3 +23,4 @@
 2024-01-18 10:19:28.890830: Update documentation and README
 2024-05-05 10:16:47.021923: Refactor code for better readability
 2024-03-06 07:31:46.059879: Improve performance of data processing
+2024-05-20 10:11:55.150670: Update documentation and README
