@@ -12,3 +12,4 @@ This project has only one goal and it is very simple. The goal is to check how t
 2024-03-07 16:12:05.955065: Update dependencies
 2024-06-16 05:02:14.970107: Add new feature to user interface
 2024-05-07 01:31:02.055864: Remove deprecated functions
+2024-06-02 23:28:51.975262: Improve error handling
