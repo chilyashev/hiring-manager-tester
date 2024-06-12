@@ -50,3 +50,4 @@
 2024-11-09 13:11:05.962629: Update documentation and README
 2024-03-04 09:55:49.032469: Remove deprecated functions
 2024-12-16 08:23:47.041015: Refactor code for better readability
+2024-06-12 21:12:21.914884: Update documentation and README
