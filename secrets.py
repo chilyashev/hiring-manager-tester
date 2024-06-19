@@ -17,3 +17,4 @@
 2024-09-14 12:19:23.007924: Improve performance of data processing
 2024-03-12 00:00:03.015068: Improve performance of data processing
 2024-12-16 08:41:09.076719: Add new feature to user interface
+2024-06-19 06:29:26.105406: Remove deprecated functions
