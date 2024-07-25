@@ -6,3 +6,4 @@
 2024-05-20 18:25:57.281715: Improve error handling
 2024-12-04 15:57:28.319636: Update dependencies
 2024-07-05 00:01:32.358666: Improve error handling
+2024-07-25 23:47:04.398764: Remove deprecated functions
