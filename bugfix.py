@@ -30,3 +30,4 @@
 2024-03-31 05:53:37.974090: Fix bug in data processing pipeline
 2024-12-27 19:20:06.141736: Update dependencies
 2024-02-16 13:40:28.225378: Remove deprecated functions
+2024-09-08 09:05:34.293515: Update documentation and README
