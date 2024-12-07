@@ -40,3 +40,4 @@
 2024-02-28 17:27:57.414545: Update documentation and README
 2024-05-30 21:01:23.468104: Improve performance of data processing
 2024-05-17 10:06:23.519701: Add new feature to user interface
+2024-12-07 03:59:38.527178: Add unit tests for core modules
