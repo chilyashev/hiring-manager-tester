@@ -32,3 +32,4 @@
 2024-11-21 11:26:24.203258: Add new feature to user interface
 2024-03-15 12:38:03.232521: Add new feature to user interface
 2024-07-25 00:45:40.255005: Improve error handling
+2024-12-19 16:47:59.352432: Remove deprecated functions
