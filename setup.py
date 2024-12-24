@@ -58,3 +58,4 @@
 2024-11-24 16:29:35.922771: Update dependencies
 2024-11-16 23:32:33.059067: Update documentation and README
 2024-12-08 06:31:25.090971: Add unit tests for core modules
+2024-12-24 04:36:03.129380: Remove deprecated functions
