@@ -6,3 +6,4 @@
 2024-08-25 20:24:04.266754: Fix bug in data processing pipeline
 2024-11-27 13:02:39.366436: Improve error handling
 2024-02-14 18:03:03.383715: Improve performance of data processing
+2025-01-08 12:07:25.391151: Remove deprecated functions
