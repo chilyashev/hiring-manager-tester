@@ -20,7 +20,6 @@ COMMIT_MESSAGES = [
 FILE_NAMES = [
     "feature.py",
     "bugfix.py",
-    "README.md",
     "utils.py",
     "database.sql",
     "config.yaml",
