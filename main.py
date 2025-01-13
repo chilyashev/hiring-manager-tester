@@ -25,7 +25,7 @@ FILE_NAMES = [
     "database.sql",
     "config.yaml",
     "test_module.py",
-    "main.py",
+    "secrets.py",
     "setup.py",
     "requirements.txt"
 ]
@@ -65,10 +65,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-2024-02-26 10:22:52.831260: Fix bug in data processing pipeline
-2024-11-19 22:35:00.989594: Update dependencies
-2024-07-30 12:34:01.011951: Improve error handling
-2024-11-04 08:58:36.033712: Optimize database queries
-2024-04-30 06:57:58.041010: Fix bug in data processing pipeline
-2024-10-07 06:09:48.235303: Remove deprecated functions
-2024-12-01 06:54:03.463128: Remove deprecated functions
