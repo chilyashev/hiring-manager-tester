@@ -58,3 +58,4 @@
 2025-01-28 08:58:54.447656: Remove deprecated functions
 2025-02-20 10:19:08.454722: Update documentation and README
 2025-03-06 17:54:46.469116: Update dependencies
+2025-02-09 23:58:16.641730: Remove deprecated functions
