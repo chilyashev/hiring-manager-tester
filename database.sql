@@ -65,3 +65,4 @@
 2024-04-04 21:15:10.626156: Add unit tests for core modules
 2024-08-24 17:54:11.672518: Add unit tests for core modules
 2025-01-20 00:01:31.031930: Update documentation and README
+2025-03-19 17:55:39.125142: Remove deprecated functions
